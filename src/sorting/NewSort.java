@@ -19,6 +19,7 @@ public class NewSort {
 	            arr[j + 1] = key; 
 	        } 
 	    } 
+	 
 	  
 	    /* A utility function to print array of size n*/
 	    static void printArray(int arr[]) 
