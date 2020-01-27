@@ -38,7 +38,6 @@ public class NewSort {
 	        ob.sort(arr); 
 	  
 	        printArray(arr); 
-
-	}
+}
 
 }
